@@ -16,6 +16,10 @@
       
       <guid>https://taronfoxworth.com/about/</guid>
       <description>&lt;p&gt;My name is Taron Foxworth.&lt;/p&gt;
+
+&lt;p&gt;&lt;button&gt;Click Here&lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;google.com&#34; target=&#34;_blank&#34;&gt;I am a link to Google &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
