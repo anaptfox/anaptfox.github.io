@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://taronfoxworth.com/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://taronfoxworth.com/blog/third/</loc>
     <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
@@ -29,6 +24,118 @@
   <url>
     <loc>https://taronfoxworth.com/blog/second/</loc>
     <lastmod>2016-10-01T16:59:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/categories/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/categories/ad/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/categories/articles/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/aviato/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/bachman/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/belson/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/blog/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/ceo/</loc>
+    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/gavin/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/hardware/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/hooli/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/pied-piper/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/categories/propaganda/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://taronfoxworth.com/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
